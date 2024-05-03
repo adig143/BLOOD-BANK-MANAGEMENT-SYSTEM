@@ -1,0 +1,2 @@
+# BLOOD-BANK-MANAGEMENT-SYSTEM
+ HTML   CSS   JavaScript   jQuery   PHP   MySQL  
